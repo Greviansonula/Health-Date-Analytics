@@ -26,4 +26,4 @@ You can access the dashboard by clicking on the link below:
 
 [Dashboard](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/635413746915330/2842400759732072/2547606093399996/latest.html)
 
-Please Note: If the link is not accessible, it could be because the link is for a shared resource and the user does not have the permission to access it.
+Please Note: If the link is not accessible, it could be because the link is expired however following the procedure above and using .dbc file you can create a similar dashboard in databricks, 
