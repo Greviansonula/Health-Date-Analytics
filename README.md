@@ -1,4 +1,4 @@
-# Running the dbc file on Databricks
+# RUNNING THE .dbc FILE ON DATABRICKS
 
 ## Prerequisites
 
@@ -17,8 +17,7 @@
 5. You can also schedule the notebook to run automatically at a specific time, by clicking on the "Edit" button in the top right corner of the notebook and then selecting "Schedule" in the dropdown menu.
 
 ## HEALTH DATA ANALYTICS DASHBOARD
-
-<iframe src="https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/635413746915330/2842400759732072/2547606093399996/latest.html" width="800" height="600"></iframe>
+![Dashboard Screenshot](resources/dashboard.png)
 
 
 ## Dashboard link
